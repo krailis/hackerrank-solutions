@@ -1,4 +1,4 @@
-# HackerRank - Solution to Basic Data Types in Python Problems
+# HackerRank - Python - Basic Data Types
 
 This directory includes my solutions to Basic Data Types Python problems found on [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-basic-data-types)
 

@@ -1,4 +1,4 @@
-# HackerRank - Solution to Introduction in Python Problems
+# HackerRank - Python - Introduction
 
 This directory includes my solutions to Introduction Python problems found on [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction)
 
