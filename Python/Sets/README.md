@@ -1,8 +1,8 @@
-# HackerRank - Solution to Python Problems
+# HackerRank - Python - Sets
 
-This directory includes my solutions to a number of Python problems found on [HackerRank](https://www.hackerrank.com/domains/python)
+This directory includes my solutions to a Sets Python problems found on [HackerRank](https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bsubdomains%5D%5B%5D=py-sets)
 
-# Problem Categories
+## List of Set Problems
 
 | # | Category | Problems | Solutions |
 | - | :------- | :------: | :-------: |
