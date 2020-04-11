@@ -2,7 +2,7 @@
 
 This directory includes my solutions to Classes Python problems found on [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-classes)
 
-# Problem Categories
+## List of Classes Problems
 
 | # | Problem Title | Problem Definition | Solution |
 | - | :------- | :------: | :-------: |
