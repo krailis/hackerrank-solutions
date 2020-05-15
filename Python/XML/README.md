@@ -6,5 +6,5 @@ This directory includes my solutions to XML Python problems found on [HackerRank
 
 | # | Category | Problems | Solutions |
 | - | :------- | :------: | :-------: |
-| 01 | Introduction | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Python/XML/xml_1_find_the_score.py) |
-| 02 | Basic Data Types | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Python/XML/xml_2_find_the_maximum_depth.py) |
+| 01 | XML 1 - Find the Score | [Problem](https://www.hackerrank.com/challenges/xml-1-find-the-score) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Python/XML/xml_1_find_the_score.py) |
+| 02 | XML 2 - Find the Maximum Depth | [Problem](https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Python/XML/xml_2_find_the_maximum_depth.py) |
