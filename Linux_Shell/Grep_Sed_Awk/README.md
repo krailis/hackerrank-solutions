@@ -1,8 +1,8 @@
-# HackerRank - Solution to Linux Shell Problems
+# HackerRank - Linux Shell - Grep Sed Awk
 
-This directory includes my solutions to a number of Linux Shell problems found on [HackerRank](https://www.hackerrank.com/domains/shell)
+This directory includes my solutions to Grep - Sed - Awk Linux Shell problems found on [HackerRank](https://www.hackerrank.com/domains/shell?filters%5Bsubdomains%5D%5B%5D=textpro&filters%5Bsubdomains%5D%5B%5D=grep-sed-awk)
 
-# Problem Categories
+# List of Grep - Sed - Awk Problems
 
 | # | Category | Problems | Solutions |
 | - | :------- | :------: | :-------: |

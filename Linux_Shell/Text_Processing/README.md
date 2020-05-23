@@ -1,8 +1,8 @@
-# HackerRank - Solution to Linux Shell Problems
+# HackerRank - Linux Shell - Text Processing
 
-This directory includes my solutions to a number of Linux Shell problems found on [HackerRank](https://www.hackerrank.com/domains/shell)
+This directory includes my solutions to Text Processing Linux Shell problems found on [HackerRank](https://www.hackerrank.com/domains/shell?filters[subdomains][]=textpro)
 
-# Problem Categories
+# List of Text Processing Problems
 
 | # | Category | Problems | Solutions |
 | - | :------- | :------: | :-------: |
