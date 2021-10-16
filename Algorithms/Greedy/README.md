@@ -17,3 +17,4 @@ This directory includes my solutions to a number of Greedy Algorithm Problems fo
 | 09 | Jim and the Orders |[Problem](https://www.hackerrank.com/challenges/jim-and-the-orders) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Algorithms/Greedy/jim_and_the_orders.py) |  
 | 10 | Permuting Two Arrays | [Problem](https://www.hackerrank.com/challenges/two-arrays) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Algorithms/Greedy/permuting_two_arrays.py) |  
 | 11 | Chief Hopper | [Problem](https://www.hackerrank.com/challenges/chief-hopper) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Algorithms/Greedy/chief_hopper.py) |
+| 11 | Max Min | [Problem](https://www.hackerrank.com/challenges/angry-children/problem) | [Solution](https://github.com/krailis/hackerrank-solutions/blob/master/Algorithms/Greedy/max_min.py) |
